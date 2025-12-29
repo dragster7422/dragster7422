@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Danil 👋
 
-<!--
-**dragster7422/dragster7422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Java Developer focused on backend development.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Java
+- Spring Boot, Spring Security, Spring Data JPA
+- PostgreSQL, Elasticsearch
+- Docker, Docker Compose
+- Maven, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+- Email: kroos7422@gmail.com
+- Website: http://165.227.156.139/
