@@ -12,4 +12,4 @@ Junior Java Developer focused on backend development.
 ### Contacts
 - Email: kroos7422@gmail.com
 - Linkedin: https://www.linkedin.com/in/%D0%B4%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE-%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D1%8C-265b863a1/
-- Website: http://165.227.156.139/
+- Website: http://18.199.173.143/
